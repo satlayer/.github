@@ -12,12 +12,12 @@ We use [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) to
 easy to read and automatically generate changelogs. Please follow the Conventional Commits specification when writing
 your commit messages.
 
-## Security issue notifications
+## Security Bugs
 
-If you discover a potential security issue in this project, 
-we ask that you notify SatLayer privately through other channels. 
+If you discover a potential security issue in this project,
+we ask that you notify SatLayer privately through bugs@satlayer.io or open bug bounties which happens from time to time.
 
-Please do **not** create a public GitHub issue.
+Please do **NOT** create a public GitHub issue.
 
 ## Reporting Bugs/Feature Requests
 
